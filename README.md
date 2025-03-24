@@ -1,3 +1,4 @@
+
 <h1 align="center">Merhaba 👋ben Pınar Dağdemir</h1>
 - 🌱 15 tane yazılım dijital dönüşüm projesi gerçekleştirdim ve şu anda eğitimler alıyorum ve kendimi geliştirmeye devam ediyorum **Udemig**
 
@@ -8,7 +9,6 @@
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pınar dağdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pınar dağdemir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pınar dağdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pınar dağdemir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
