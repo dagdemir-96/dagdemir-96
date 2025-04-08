@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋ben Pınar Dağdemir</h1>
-- 🌱 15 tane yazılım dijital dönüşüm projesi gerçekleştirdim ve şu anda eğitimler alıyorum ve kendimi geliştirmeye devam ediyorum **Udemig**
+- 🌱 15 tane yazılım dijital dönüşüm projesi gerçekleştirdim , şu anda eğitimler alıyorum ve kendimi geliştirmeye devam ediyorum **Udemig**
 
 - 📫 Bana mail adresimden ulaşabilirsiniz **pnrdagdemir1@gmail.com**
 
