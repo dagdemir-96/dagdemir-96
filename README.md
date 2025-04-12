@@ -2,14 +2,15 @@
 - 🌱 Yazılıma uygulama geliştirme kısımı ile başlayarak ve bu alanda 15 tane yazılım dijital dönüşüm projesi gerçekleştirdikten sonra Front-End ve Back-End alanlarında ilerlemeye karar aldım.Şuan da bu alanda  eğitimler alıyorum ve kendimi geliştirmeye devam ediyorum **Udemig**
 
 - 📫 Bana mail adresimden ulaşabilirsiniz **pnrdagdemir1@gmail.com**
-- 
-- 
 
 - ⚡ yazılım ile ilgilenmekten ve yeni bir şey oluşturmaktan keyif alıyorum **Keyifli olduğunu düşünüyorum**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pınar dağdemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pınar dağdemir" height="30" width="40" /></a>
+   <a href="mailto:pnrdagdemir1@gmial.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Mail" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
