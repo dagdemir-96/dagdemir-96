@@ -3,6 +3,7 @@
 
 - 📫 Bana mail adresimden ulaşabilirsiniz **pnrdagdemir1@gmail.com**
 - 
+- 
 
 - ⚡ yazılım ile ilgilenmekten ve yeni bir şey oluşturmaktan keyif alıyorum **Keyifli olduğunu düşünüyorum**
 
